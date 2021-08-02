@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [Day 1: Theory of PLL & Lab Set up](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#day-1-pll-theory--lab-set-up)
-  - [Significance of PLL]()
+  - [Significance of PLL](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#significance-of-pll)
   - [Components of PLL]()
   - [Tool Set Up]()
   - [PLL Specifications]()
