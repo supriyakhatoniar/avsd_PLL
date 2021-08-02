@@ -1,5 +1,5 @@
 # Phase-Locked-Loop (PLL) IC design on Open Source Google-Skywater 130nm
-### _VSD-IAT Cloud based 2-days Workshop_
+### _VSD-IAT Cloud based 2-day Workshop_
 ##### _Date: 31st July and 1st August, 2021_
 ---
 ---
