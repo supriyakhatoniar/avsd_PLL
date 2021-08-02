@@ -81,7 +81,8 @@ The Output of the components of PLL using Ngspice:
 - Leakage: 40uV increase every 1us
 
 - #### Frequency Divider Output
-<img width="800" alt="pll_pfd" src="https://user-images.githubusercontent.com/69808870/127878348-d38a8250-b1c9-42d4-a46c-f4dd94b8fc01.png">
+<img width="800" alt="pll_layout_fd" src="https://user-images.githubusercontent.com/69808870/127905804-33a23bde-193e-4a8c-8c9d-9176900b04d8.png">
+
   - Red: Output Clock
   - Blue: Input Clock
 
