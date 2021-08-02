@@ -159,6 +159,6 @@ Orange: Charge Pump Output Voltage
 [1] lakshmi Sathi, "130nm PLL Clock Multiplier IP", https://github.com/lakshmi-sathi/avsdpll_1v8
 
 ## Acknowlegements
-- I am grateful to Mr. [Kunal Ghosh](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836), Co-founder of [VSD](https://www.vlsisystemdesign.com/) for providing me 2-day wonderful workshop and his expert advice.
+- I am grateful to Mr. [Kunal Ghosh](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836), Co-founder of [VSD](https://www.vlsisystemdesign.com/), for providing me 2-day wonderful workshop and his expert advice.
 - I would like to thank Lakshmi Sathi, for guiding throught the workshop.
 - I would also like to extend my thanks to Mansi Mohapatra, Mili Anand and Mukesh Nadar for their support during the workshop.
