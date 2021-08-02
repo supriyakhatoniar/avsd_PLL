@@ -8,16 +8,16 @@
 
 - [Day 1: Theory of PLL & Lab Set up](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#day-1-pll-theory--lab-set-up)
   - [Significance of PLL](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#significance-of-pll)
-  - [Components of PLL]()
-  - [Tool Set Up]()
-  - [PLL Specifications]()
-- [Day 2: PLL Simulation (Pre-Layout and Post-Layout)]()
-  - [Pre-Layout Simulation]()
-  - [Layout]()
-  - [Post-Layout Simulation]()
- - [Tapeout Idea]()
- - [References]()
- - [Acknowledgements]()
+  - [Components of PLL](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#components-of-pll)
+  - [Tool Set Up](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#tool-set-up)
+  - [PLL Specifications](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#pll-specifications)
+- [Day 2: PLL Simulation (Pre-Layout and Post-Layout)](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#day-2-pll-simulation-pre-layout-and-post-layout)
+  - [Pre-Layout Simulation](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#pre-layout-simulation)
+  - [Layout](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#layout)
+  - [Post-Layout Simulation](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#post-layout-simulation)
+ - [Tapeout Idea](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#tapeout-idea)
+ - [References](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#references)
+ - [Acknowledgements](https://github.com/supriyakhatoniar/avsd_PLL/blob/main/README.md#acknowlegements)
 
 ## Day 1: PLL Theory & Lab Set up
 ---
