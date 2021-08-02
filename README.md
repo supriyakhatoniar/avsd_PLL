@@ -70,26 +70,29 @@ Such PLL is commonly called as clock multiplier PLL.
 The Output of the components of PLL using Ngspice:
 - #### Phase Frequency Detector Output
 <img width="800" alt="pll_pfd" src="https://user-images.githubusercontent.com/69808870/127878278-e3224452-c5ba-4dcf-938b-b496da74792e.png">
-  - Red: Clock 1
-  - Blue: Clock 2
-  - Orange: Up Signal
-  - Green: Down Signal
+  
+  - ###### Red: Clock 1
+  - ###### Blue: Clock 2
+  - ###### Orange: Up Signal
+  - ###### Green: Down Signal
 
 - #### Charge Pump Output (rise due to leakage current)
 <img width="800" alt="pll_cp" src="https://user-images.githubusercontent.com/69808870/127878305-9b4cf5c9-4fa0-4f1e-a7c9-0d02f38bc81f.png">
-- Red: Charge pump output voltage
-- Leakage: 40uV increase every 1us
+
+  - ###### Red: Charge pump output voltage
+  - ###### Leakage: 40uV increase every 1us
 
 - #### Frequency Divider Output
-<img width="800" alt="pll_layout_fd" src="https://user-images.githubusercontent.com/69808870/127905804-33a23bde-193e-4a8c-8c9d-9176900b04d8.png">
+<img width="800" alt="pll_fd" src="https://user-images.githubusercontent.com/69808870/127905947-4ab14fbd-a7e8-4a5f-9d5f-9b19c78107db.png">
 
-  - Red: Output Clock
-  - Blue: Input Clock
+  - ###### Red: Output Clock
+  - ###### Blue: Input Clock
 
 - #### Voltage Control Oscillator Output
 <img width="800" alt="pll_vco" src="https://user-images.githubusercontent.com/69808870/127878367-ac2ccaaf-60be-4178-8b94-bc2cc5440d0e.png">
-  - Red: Control Voltage
-  - Blue: Output Clock
+  
+  - ###### Red: Control Voltage
+  - ###### Blue: Output Clock
 
 ### Layout
 
@@ -130,26 +133,30 @@ Area: 496.03um square
 The Output of the components of PLL using Ngspice:
 - #### Phase Frequency Detector Output (response to 'Up' signal)
 <img width="800" alt="pll_postlay_pfd2" src="https://user-images.githubusercontent.com/69808870/127889471-3ac058b7-b36a-47dd-8120-eea4868d8dd0.png">
-  - Red: Clock 1
-  - Blue: Clock 2
-  - Orange: Up Signal
-  - Green: Down Signal
+  
+  - ###### Red: Clock 1
+  - ###### Blue: Clock 2
+  - ###### Orange: Up Signal
+  - ###### Green: Down Signal
 
 - #### Charge Pump Output (response to 'Up' signal)
 <img width="800" alt="pll_postlay_cp" src="https://user-images.githubusercontent.com/69808870/127889482-1bca397c-f5dd-4f3c-8e11-8e7968f0de74.png">
-Orange: Charge Pump Output Voltage
-  - Red: Up Signal
-  - Blue: Down Signal
+
+  - ###### Orange: Charge Pump Output Voltage
+  - ###### Red: Up Signal
+  - ###### Blue: Down Signal
 
 - #### Frequency Divider Output
 <img width="800" alt="pll_postlay_fd" src="https://user-images.githubusercontent.com/69808870/127889511-a0d00c4a-250b-432a-813b-f31526ca5e4b.png">
-  - Red: Input Clock
-  - Blue: Output Clock
+  
+  - ###### Red: Input Clock
+  - ###### Blue: Output Clock
 
 - #### Voltage Control Oscillator Output
 <img width="800" alt="pll_postlay_vco" src="https://user-images.githubusercontent.com/69808870/127889512-df440524-ccc4-4a04-9999-ad03bbf6002f.png">
-  - Red: Output Clock
-  - Blue: Control Voltage
+  
+  - ###### Red: Output Clock
+  - ###### Blue: Control Voltage
   
 ## Tapeout Idea
 - To meet the requirements of a proper GPIO, it is neccessary to connect the IP pins to package.
