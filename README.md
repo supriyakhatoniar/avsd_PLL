@@ -161,7 +161,7 @@ The Output of the components of PLL using Ngspice:
 ## Tapeout Idea
 - To meet the requirements of a proper GPIO, it is neccessary to connect the IP pins to package.
 - This task is complicated and time consuming, so we can use [Efabless Caravel](https://github.com/efabless/caravel) SoC template as vehicle to meet the requirements of fabrication.
-- After successfully doing all the process, the next step is to Write GDS file which is the complete Layout information that can be sent to the fabrication centre to fabricate the IC.
+- After successfully doing all the process, the next step is to Write GDS file, which is the complete Layout information that can be sent to the fabrication centre to fabricate the IC.
 
 ## References
 [1] lakshmi Sathi, "130nm PLL Clock Multiplier IP", https://github.com/lakshmi-sathi/avsdpll_1v8
